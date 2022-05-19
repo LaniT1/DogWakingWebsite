@@ -1,0 +1,38 @@
+html,body
+{
+    background-color: white;
+}
+
+/* Style of header */
+.topnav
+{
+    width: 100%;
+    background-color: black;
+    overflow: hidden;
+}
+
+.topnav a
+{
+    float: left;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    text-align: center;
+    width: 25%;
+}
+
+.topnav a:hover
+{
+    background-color: grey;
+    color: white;
+
+}
+
+.topnav a.active
+{
+    background-color: darkgrey;
+    color: white;
+
+}
