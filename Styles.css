@@ -34,5 +34,8 @@ html,body
 {
     background-color: darkgrey;
     color: white;
+}
 
+.circleimg{
+    border-radius: 50%;
 }
