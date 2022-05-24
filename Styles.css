@@ -39,3 +39,20 @@ html,body
 .circleimg{
     border-radius: 50%;
 }
+
+.middle{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-self: auto;
+    height: 250px;
+}
+
+.imgbg{
+    background-color: #EDECF1;
+    padding: 12px;
+}
+
+.right{
+    float:right;
+}   
