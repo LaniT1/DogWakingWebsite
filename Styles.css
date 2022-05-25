@@ -56,3 +56,12 @@ html,body
 .right{
     float:right;
 }   
+
+.black{
+    width: auto;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
