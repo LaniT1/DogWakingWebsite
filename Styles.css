@@ -74,4 +74,13 @@ html,body
     text-align: left;
     font-size: large;
     padding: 5px;
+}   
+
+.black{
+    width: auto;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px;
 }
