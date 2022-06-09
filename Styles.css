@@ -74,6 +74,7 @@ html,body
     text-align: left;
     font-size: large;
     padding: 5px;
+    margin-bottom: 15px;
 }   
 
 .black{
@@ -110,3 +111,37 @@ footer{
     width: 100%;
   }
   
+  .section {
+      padding-top: 15px;
+      background-color: #EDECF1;
+      text-align: center;
+  }
+
+
+  .Fact-Section {
+    display: flex;
+    padding-bottom: 5px;
+  }
+ 
+  .Fact{
+    flex: 33.33%;
+    padding: 5px;
+    text-align: center;
+  }
+  
+  .Details{
+      display: left ;
+      float: left;
+      width: 55%;
+      padding: 1px;
+      text-align: center;
+
+  }
+
+  .Aboutimg img{
+      float: right;
+      border-radius: 50%;
+      height: 400px;
+      padding-right: 10px;
+      padding-top: 20px;
+  }
